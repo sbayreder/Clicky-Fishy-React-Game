@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "./assets/images/yellowtang.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/achilliestang.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/blueringangel.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/clowntrigger.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/emporerangel.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/flameangel.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/hippotang.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/lightningclownfish.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/mandaringoby.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/pearlyjawfish.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/porcupinepuffer.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/spottedgoby.jpg",
+        "clicked": false
+    }
+]
